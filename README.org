@@ -1,0 +1,7 @@
+#+TITLE: Learn Emacs Lisp
+
+
+* Resources
+
+- [[https://www.youtube.com/watch?v%3D2z-YBsd5snY][Harry Schwartz's intro to Elisp (Video)]]
+- [[http://ergoemacs.org/emacs/elisp.html][Ergo Emacs's Practical Emacs Lisp]]
